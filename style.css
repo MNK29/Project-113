@@ -1,0 +1,32 @@
+body{
+    background-image: url("Birthday.jpeg");
+    background-position: center;
+    background-size: cover;
+    border-style:groove;
+    border-color: maroon;
+    border-width: 20px;
+}
+
+.heading{
+    font-size: 100px;
+    font-family: 'Tourney', cursive;
+    font-style: oblique;
+    color: crimson;
+    text-decoration: underline;
+    margin-top: 20px;
+}
+
+canvas{
+    border: 3px solid black;
+}
+
+button{
+   font-size: 30px;
+   background-color: cyan;
+   color: chocolate;
+   border-style: double;
+   border-color: blue;
+   border-width: 5px;
+   border-radius: 10px;
+   padding: 10px;
+}
